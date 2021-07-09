@@ -2,7 +2,7 @@
 
 This is Telegram bot. Telegram bot gives the weather for today.
 
-This bot has 3 commands: "_/start_", "_/help_" and "_/weather_".
+This bot has 3 commands: "_/start_", "_/help_", "_/weather_" and <i>"/unit"</i>.
 
 The weather is obtained from the site (<b>https://openweathermap.org/</b>).
 
