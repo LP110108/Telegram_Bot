@@ -15,3 +15,7 @@ To get your <b>Telegram API Token</b> you should create your bot with BotFather 
 Insert your <b>API Token</b> into <i>7th</i> line.
 
 <b>NOTE</b>: If you want to <i>remove</i> file <b>"config.py"</b> you must remove <i>3rd line</i> in the <b>"echo_bot.py"</b> file.
+
+<h1>Result</h1>
+
+<b>https://t.me/country_weather_bot</b>
